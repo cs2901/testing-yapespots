@@ -1,7 +1,6 @@
 # Requirements
 
-For this release v0.1 we want to satisfaces this requirements:
-
+For this release v0.1 we want to satisfy these requirements
 ## Functional requirements:
 - Receive and translate a text.utton.
 19
@@ -31,6 +30,7 @@ For this release v0.1 we want to satisfaces this requirements:
 3. Translator transalte input text to spanish
 4. User receives the tranlated text
 
+
 # Developer Guide
 
 ## Features
@@ -44,6 +44,8 @@ This feature is to select the language of the output query
 - Translate a word
 This feature is to translate and get the result
 
+## Class Diagram
+[Class Diagram](ClassDiagramDictionary.png)
 # Testing
 
 We want to program a dictionary to translate a English text into a language of our choice, say Spanish.  This dictionary, in the form of a class, Dictionary, is initialized with a word file and allows us to query the translation of a English word.  The program should allow several translation alternatives
