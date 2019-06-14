@@ -10,6 +10,12 @@ For this release v0.1 we want to satisfaces this requirements:
 
 ## Non-functional requirements:
 - Translate on online mode.
+## User Stories
+
+- As a user, I can input a word
+- as a user, I can select an input language
+- As a user, I can select an output language
+- As a user, I can translate a word
 
 ## Use Cases
 
