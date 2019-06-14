@@ -10,6 +10,9 @@ For this release v0.1 we want to satisfaces this requirements:
 
 ## Non-functional requirements:
 - Translate on online mode.
+
+# User Guide
+
 ## User Stories
 
 - As a user, I can input a word
@@ -27,6 +30,19 @@ For this release v0.1 we want to satisfaces this requirements:
 2. User picks translate to Spanish
 3. Translator transalte input text to spanish
 4. User receives the tranlated text
+
+# Developer Guide
+
+## Features
+
+- Input a text
+This feature is to enable the user to input his query to the program
+- Select an input language
+This feature is to select the language of the input query
+- Select an output language
+This feature is to select the language of the output query
+- Translate a word
+This feature is to translate and get the result
 
 # Testing
 
