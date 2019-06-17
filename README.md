@@ -53,13 +53,13 @@ This feature is to select the language of the output query
 This feature is to translate and get the result
 
 ## Class Diagram
-[Class Diagram](ClassDiagramDictionary.png)
+![Class Diagram](ClassDiagramDictionary.png)
 ## Components Diagram
-[Components](components.png)
+![Components](components.png)
 ## Arquitecture Diagram
-[Arquitecture](traductorArqui.png)
+![Arquitecture](traductorArqui.png)
 ## Use Diagram
-[Use Diagram](DiagramdeUsoTranslator.png)
+![Use Diagram](DiagramdeUsoTranslator.png)
 # Testing
 
 We want to program a dictionary to translate a English text into a language of our choice, say Spanish.  This dictionary, in the form of a class, Dictionary, is initialized with a word file and allows us to query the translation of a English word.  The program should allow several translation alternatives
