@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="new_origin">
+        <item>es</item>
+        <item>en</item>
+        <item>pr</item>
+        <item>fr</item>
+    </string-array>
+
+    <string-array name="result">
+        <item>es</item>
+        <item>en</item>
+        <item>pr</item>
+        <item>fr</item>
+    </string-array>
+    <string name="app_name">Translator</string>
+    <string name="o">ori</string>
+
+</resources>
