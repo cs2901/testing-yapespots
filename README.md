@@ -2,10 +2,8 @@
 
 For this release v0.1 we want to satisfy these requirements
 ## Functional requirements:
-- Receive and translate a text.utton.
-19
-​
-- Translate from English to Spanish and vice versa.
+- Receive and translate a text
+- Translate from and to using a selection of languages
 
 ## Non-functional requirements:
 - Translate on online mode.
@@ -24,11 +22,21 @@ For this release v0.1 we want to satisfy these requirements
 ### Use Case - Translate a Word to Spanish
 #### System: Translator
 #### User: user
-#### Mss:
+#### MSS:
 1. User input text in English
 2. User picks translate to Spanish
 3. Translator transalte input text to spanish
 4. User receives the tranlated text
+
+### Use Case - Translate a Word from French to Portuguese
+#### System: Translator
+#### User: user
+#### MSS:
+1. User picks origin language as French
+2. User picks target language as Portuguese
+3. User inputs text in French and presses Translate
+4. System translates text to Portuguese
+5. System displays translated text
 
 
 # Developer Guide
