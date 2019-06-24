@@ -186,7 +186,7 @@ public class Translator {
     }
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException {
-        Translator translator = new Translator("resources/es-en.xml", "es", "en");
+        Translator translator = new Translator("resources/es-en.xml", "es", "pr");
         System.out.println(translator.getTranslate("Juan's Perro esta en la puerta"));
         System.out.println(translator.getTranslate("chien et ecran"));
         System.out.println(translator.getTranslate("puerta"));
